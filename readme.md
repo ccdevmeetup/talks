@@ -1,7 +1,7 @@
 # Central Coast Developer Meetup
 A repo for managing talks for https://www.meetup.com/Central-Coast-Developer-Meetup
 
-## How to submit a topic you want to hear?
+## How to submit a topic you that want to hear about?
 Got a topic that you want to hear about but don't have time or the tools to research it?
 
 Create an issue:
